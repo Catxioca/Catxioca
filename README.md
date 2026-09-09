@@ -1,10 +1,11 @@
  Olá, eu sou ATÓNIO
 
 ## Sobre mim
-Fundador e líder de uma empresa de **cibersegurança ética**  
-Especialista em **Administração Windows, Virtualização (Hyper-V, VMware, VirtualBox)** e **Automação com PowerShell**  
-Estudante de **Engenharia Informática**, focado em análise de sistemas e infraestrutura  
-Apaixonado por **labs práticos, documentação em Markdown e Git** 
+Tenho experiência multidisciplinar em infraestrutura, administração de sistemas, segurança da informação, cloud e gestão de projetos TIC. Atuo na ligação entre tecnologia e negócio, com experiência em requisitos, escopo, riscos, equipas, disponibilidade, continuidade, gestão de acessos e governança.
+
+Tenho domínio prático de Windows/Linux, Active Directory, VMware/Hyper-V, AWS/Azure, redes, monitorização e aplicação de boas práticas ITIL e ISO 27001.
+
+Gosto de trocar experiências, construir soluções em equipe e contribuir para ambientes de TI mais seguros, escaláveis ​​e sustentáveis. Estou aberto a novas conexões e oportunidades que me permitirão continuar evoluindo profissionalmente.
 
 
 ## Competências
